@@ -1,0 +1,4 @@
+repository "Funny caculator/Funny caculator@5773934600416@cloud"
+  path "/"
+    br "/main"
+    co "/main"
